@@ -1,0 +1,40 @@
+﻿bridge_id,name,city,max_load,year_built
+1,Puente Central,Madrid,120,1998
+2,Puente Norte,Sevilla,80,2005
+3,Puente Sur,Valencia,60,2010
+4,Puente Este,Bilbao,150,1990
+5,Puente Río I,Madrid,95,2001
+6,Puente Río II,Madrid,70,1985
+7,Puente Industrial,Barcelona,130,1996
+8,Puente Portuario,Barcelona,85,2008
+9,Puente Antiguo,Toledo,55,1978
+10,Puente Nuevo,Toledo,140,2018
+11,Viaducto Sierra,Granada,90,1999
+12,Viaducto Costa,Málaga,110,2003
+13,Puente Urbano I,Sevilla,75,1992
+14,Puente Urbano II,Sevilla,65,1989
+15,Puente Metropolitano,Madrid,160,2015
+16,Puente Logístico,Zaragoza,105,2007
+17,Puente Ferroviario,León,125,1988
+18,Puente Rural I,Cuenca,50,1975
+19,Puente Rural II,Cuenca,60,1982
+20,Puente Autopista A1,Burgos,145,2012
+21,Puente Autopista A2,Guadalajara,135,2011
+22,Puente Autopista A3,Valencia,100,2009
+23,Puente Autopista A4,Córdoba,90,1997
+24,Puente Autopista A5,Badajoz,85,1994
+25,Puente Autopista A6,Lugo,70,1986
+26,Puente Histórico I,Salamanca,45,1968
+27,Puente Histórico II,Salamanca,55,1972
+28,Puente Costero I,Cádiz,115,2004
+29,Puente Costero II,Cádiz,95,1998
+30,Puente Montaña I,Huesca,80,1991
+31,Puente Montaña II,Huesca,65,1984
+32,Puente Acceso Puerto,Valencia,120,2013
+33,Puente Acceso Aeropuerto,Madrid,140,2016
+34,Puente Industrial II,Tarragona,110,2002
+35,Puente Industrial III,Tarragona,90,1995
+36,Puente Urbano III,Bilbao,85,2000
+37,Puente Urbano IV,Bilbao,70,1987
+38,Puente Circunvalación,Valladolid,130,2010
+39,Puente Circunvalación II,Valladolid,100,2006
