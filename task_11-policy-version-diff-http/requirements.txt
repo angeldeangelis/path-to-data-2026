@@ -1,0 +1,5 @@
+PostgreSQL
+Python 3.11+
+FastAPI
+psycopg2
+uvicorn
